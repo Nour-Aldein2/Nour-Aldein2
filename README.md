@@ -1,4 +1,4 @@
-## Hi, I'm Nour 👋
+## Hi, I'm Noor 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nour-Aldein2/Nour-Aldein2/blob/output/github-contribution-grid-snake-dark.svg" />
